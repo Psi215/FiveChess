@@ -49,7 +49,7 @@ FiveChessWin/
   - 返回最佳落子位置，并记录搜索时间，将最佳落子位置送入AiInput统一接口处理
 
 ### 项目参考
-- 禁手判断逻辑参考借鉴了github上的dhbloo大神的开源程序rapfi[https://github.com/dhbloo/rapfi]，具体参看这个项目中的第423行到第520行代码。
+- 禁手判断逻辑参考借鉴了github上的dhbloo大神的开源程序rapfi [https://github.com/dhbloo/rapfi] ，具体参看这个项目中的第423行到第520行代码。
 - AI部分参考了[https://kimlongli.github.io/2016/12/14/%E5%A6%82%E4%BD%95%E8%AE%BE%E8%AE%A1%E4%B8%80%E4%B8%AA%E8%BF%98%E5%8F%AF%E4%BB%A5%E7%9A%84%E4%BA%94%E5%AD%90%E6%A3%8BAI/]
 的AI设计思路。
 - 对以上项目表示感谢！
