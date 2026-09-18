@@ -157,3 +157,16 @@ make release
 
 - **开发环境**：Windows 11 / VS Code / GCC。
 - **开发配置**：Intel i9-13980HX, 16GB RAM.
+
+##  许可证
+
+本项目采用 **GNU General Public License v3.0 (GPL-3.0)** 发布，完整条款见 [LICENSE](LICENSE)。
+
+**Copyright (C) 2025 朱骏锦**
+
+### 第三方代码声明
+
+- 本项目**禁手判断逻辑**参考并改编自开源项目 **rapfi**（<https://github.com/dhbloo/rapfi>），该项目以 **GPL-3.0** 许可证发布；
+- 依据 GPL-3.0 的 copyleft 条款，本项目作为其衍生作品，**同样以 GPL-3.0 发布**；
+- AI 搜索部分的设计思路参考了公开技术博客，具体实现为本人独立编写，并做了若干优化（Zobrist 置换表、根节点并行、增量评估等）。
+
