@@ -162,7 +162,7 @@ make release
 
 本项目采用 **GNU General Public License v3.0 (GPL-3.0)** 发布，完整条款见 [LICENSE](LICENSE)。
 
-**Copyright (C) 2025 朱骏锦**
+**Copyright (C) 2025 Psi215**
 
 ### 第三方代码声明
 
